@@ -5,6 +5,6 @@
 
   # bic-leelab's Website
 
-  Visit **[bic-leelab.github.io/bic-leelab-website](https://bic-leelab.github.io/bic-leelab-website)** 🚀
+  Visit **[bic-leelab.com](http://bic-leelab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
