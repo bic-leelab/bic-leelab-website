@@ -16,6 +16,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="Cancer subtype classification and modeling by pathway attention and propagation" style="rich" %}
 
+{% include citation.html lookup="CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction" style="rich" %}
+
 {% include section.html %}
 
 ## All
