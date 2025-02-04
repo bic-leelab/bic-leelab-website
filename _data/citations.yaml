@@ -1,174 +1,564 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.csbj.2024.04.038
+  title: Multi-layered knowledge graph neural network reveals pathway-level agreement
+    of three breast cancer multi-gene assays
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Sangseon Lee
+  - Joonhyeong Park
+  - Yinhua Piao
+  - Dohoon Lee
+  - Danyeong Lee
+  - Sun Kim
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2024-12-01'
+  link: https://doi.org/g83w8j
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/JBHI.2024.3350083
+  title: Dual Representation Learning for Predicting Drug-side Effect Frequency using
+    Protein Target Information
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Sungjoon Park
+  - Sangseon Lee
+  - Minwoo Pak
+  - Sun Kim
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2024-01-01'
+  link: https://doi.org/g83w8k
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bbad285
+  title: "A model-agnostic framework to enhance knowledge graph-based drug combination\
+    \ prediction with drug\u2013drug interaction data and supervised contrastive learning"
+  authors:
+  - Jeonghyeon Gu
+  - Dongmin Bang
+  - Jungseob Yi
+  - Sangseon Lee
+  - Dong Kyu Kim
+  - Sun Kim
+  publisher: Briefings in Bioinformatics
+  date: '2023-08-07'
+  link: https://doi.org/g83w8m
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bbad034
+  title: Improved drug response prediction by drug target data integration via network-based
+    profiling
+  authors:
+  - Minwoo Pak
+  - Sangseon Lee
+  - Inyoung Sung
+  - Bonil Koo
+  - Sun Kim
+  publisher: Briefings in Bioinformatics
+  date: '2023-02-08'
+  link: https://doi.org/g83w8n
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-39301-y
+  title: Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association
+    to multiple layers
+  authors:
+  - Dongmin Bang
+  - Sangsoo Lim
+  - Sangseon Lee
+  - Sun Kim
+  publisher: Nature Communications
+  date: '2023-06-15'
+  link: https://doi.org/gsrm68
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.csbj.2023.08.016
+  title: Exploring chemical space for lead identification by propagating on chemical
+    similarity network
+  authors:
+  - Jungseob Yi
+  - Sangseon Lee
+  - Sangsoo Lim
+  - Changyun Cho
+  - Yinhua Piao
+  - Marie Yeo
+  - Dongkyu Kim
+  - Sun Kim
+  - Sunho Lee
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2023-01-01'
+  link: https://doi.org/g83w8p
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.22.517225
+  title: Multi-layer guilt-by-association-based drug repurposing by integrating clinical
+    knowledge on biological heterogeneous networks
+  authors:
+  - Dongmin Bang
+  - Sangsoo Lim
+  - Sangseon Lee
+  - Sun Kim
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-11-24'
+  link: https://doi.org/g83w8q
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/cancers14174120
+  title: Risk Stratification for Breast Cancer Patient by Simultaneous Learning of
+    Molecular Subtype and Survival Outcome Using Genetic Algorithm-Based Gene Set
+    Selection
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Bonil Koo
+  - Dohoon Lee
+  - Sangseon Lee
+  - Inyoung Sung
+  - Sun Kim
+  - Sunho Lee
+  publisher: Cancers
+  date: '2022-08-25'
+  link: https://doi.org/gqsh5s
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/TCBB.2021.3067613
+  title: 'MLDEG: A Machine Learning Approach to Identify Differentially Expressed
+    Genes Using Network Property and Network Propagation'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Ji Hwan Moon
+  - Sangseon Lee
+  - Minwoo Pak
+  - Benjamin Hur
+  - Sun Kim
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2022-07-01'
+  link: https://doi.org/g83w8r
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1186/s12859-022-04679-x
+  title: 'AutoCoV: tracking the early spread of COVID-19 in terms of the spatial and
+    temporal patterns from embedding space by K-mer based deep learning'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Inyoung Sung
+  - Sangseon Lee
+  - Minwoo Pak
+  - Yunyol Shin
+  - Sun Kim
+  publisher: BMC Bioinformatics
+  date: '2022-03-01'
+  link: https://doi.org/g83w8s
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/BigComp54360.2022.00080
+  title: Embedding of FDA Approved Drugs in Chemical Space Using Cascade Autoencoder
+    with Metric Learning
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Jungwoo Kim
+  - Sangsoo Lim
+  - Sangseon Lee
+  - Changyun Cho
+  - Sun Kim
+  publisher: 2022 IEEE International Conference on Big Data and Smart Computing (BigComp)
+  date: '2022-01-01'
+  link: https://doi.org/g83w8t
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.csbj.2022.07.049
+  title: 'On modeling and utilizing chemical compound information with deep learning
+    technologies: A task-oriented approach'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Sangsoo Lim
+  - Sangseon Lee
+  - Yinhua Piao
+  - MinGyu Choi
+  - Dongmin Bang
+  - Jeonghyeon Gu
+  - Sun Kim
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2022-01-01'
+  link: https://doi.org/gqwtsg
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2209.07817
+  title: 'SPGP: Structure Prototype Guided Graph Pooling'
+  authors:
+  - Sangseon Lee
+  - Dohoon Lee
+  - Yinhua Piao
+  - Sun Kim
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g83w8v
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCBB.2019.2938949
+  title: Ranked k-Spectrum Kernel for Comparative and Evolutionary Comparison of Exons,
+    Introns, and CpG Islands
+  authors:
+  - Sangseon Lee
+  - Taeheon Lee
+  - Yung-Kyun Noh
+  - Sun Kim
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2021-05-01'
+  link: https://doi.org/g83w8w
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2021073118
+  title: DNMT1 maintains metabolic fitness of adipocytes through acting as an epigenetic
+    safeguard of mitochondrial dynamics
+  authors:
+  - Yoon Jeong Park
+  - Sangseon Lee
+  - Sangsoo Lim
+  - Hahn Nahmgoong
+  - Yul Ji
+  - Jin Young Huh
+  - Assim A. Alfadda
+  - Sun Kim
+  - Jae Bum Kim
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-03-08'
+  link: https://doi.org/gqmr5n
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM52615.2021.9669350
+  title: A probabilistic model for pathway-guided gene set selection
+  authors:
+  - Inyoung Kim
+  - Sangseon Lee
+  - Youngkuk Kim
+  - Hugh Namkoong
+  - Sun Kim
+  publisher: 2021 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2021-12-09'
+  link: https://doi.org/g83w8x
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2021.652623
+  title: Construction of Condition-Specific Gene Regulatory Network Using Kernel Canonical
+    Correlation Analysis
+  authors:
+  - Dabin Jeong
+  - Sangsoo Lim
+  - Sangseon Lee
+  - Minsik Oh
+  - Changyun Cho
+  - Hyeju Seong
+  - Woosuk Jung
+  - Sun Kim
+  publisher: Frontiers in Genetics
+  date: '2021-05-20'
+  link: https://doi.org/gphzk7
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-021-88623-8
+  title: Deep hierarchical embedding for simultaneous modeling of GPCR proteins in
+    a unified metric space
+  authors:
+  - Taeheon Lee
+  - Sangseon Lee
+  - Minji Kang
+  - Sun Kim
+  publisher: Scientific Reports
+  date: '2021-05-05'
+  link: https://doi.org/g7kfxg
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-57173-3_9
+  title: Network Propagation for the Analysis of Multi-omics Data
+  authors:
+  - Minwoo Pak
+  - Dabin Jeong
+  - Ji Hwan Moon
+  - Hongryul Ann
+  - Benjamin Hur
+  - Sangseon Lee
+  - Sun Kim
+  publisher: Recent Advances in Biological Network Analysis
+  date: '2020-09-05'
+  link: https://doi.org/g83w8z
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-021-03333-5
+  title: Subnetwork representation learning for discovering network biomarkers in
+    predicting lymph node metastasis in early oral cancer
+  authors:
+  - Minsu Kim
+  - Sangseon Lee
+  - Sangsoo Lim
+  - Doh Young Lee
+  - Sun Kim
+  publisher: Scientific Reports
+  date: '2021-12-14'
+  link: https://doi.org/g83w82
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btaa203
+  title: Cancer subtype classification and modeling by pathway attention and propagation
+  authors:
+  - Sangseon Lee
+  - Sangsoo Lim
+  - Taeheon Lee
+  - Inyoung Sung
+  - Sun Kim
+  publisher: Bioinformatics
+  date: '2020-03-24'
+  link: https://doi.org/gndrn3
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2020.564792
+  title: 'DRIM: A Web-Based System for Investigating Drug Response at the Molecular
+    Level by Condition-Specific Multi-Omics Data Integration'
+  authors:
+  - Minsik Oh
+  - Sungjoon Park
+  - Sangseon Lee
+  - Dohoon Lee
+  - Sangsoo Lim
+  - Dabin Jeong
+  - Kyuri Jo
+  - Inuk Jung
+  - Sun Kim
+  publisher: Frontiers in Genetics
+  date: '2020-11-12'
+  link: https://doi.org/grmbvp
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2020.00869
+  title: Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention
+    Based Deep Learning With Regulatory Latent Space
+  authors:
+  - Minji Kang
+  - Sangseon Lee
+  - Dohoon Lee
+  - Sun Kim
+  publisher: Frontiers in Genetics
+  date: '2020-09-30'
+  link: https://doi.org/g83w83
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBM.2018.8621581
+  title: Identifying stress-related genes and predicting stress types in Arabidopsis
+    using logical correlation layer and CMCL loss through time-series data
+  authors:
+  - Dongwon Kang
+  - Hongryul Ahn
+  - Sangseon Lee
+  - Chai-Jin Lee
+  - Jihye Hur
+  - Woosuk Jung
+  - Sun Kim
+  publisher: 2018 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2018-12-01'
+  link: https://doi.org/g83w84
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btz327
+  title: 'PRISM: methylation pattern-based, reference-free inference of subclonal
+    makeup'
+  authors:
+  - Dohoon Lee
+  - Sangseon Lee
+  - Sun Kim
+  publisher: Bioinformatics
+  date: '2019-07-01'
+  link: https://doi.org/gf4q59
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0223520
+  title: 'SpliceHetero: An information theoretic approach for measuring spliceomic
+    intratumor heterogeneity from bulk tumor RNA-seq'
+  authors:
+  - Minsu Kim
+  - Sangseon Lee
+  - Sangsoo Lim
+  - Sun Kim
+  publisher: PLOS ONE
+  date: '2019-10-23'
+  link: https://doi.org/ggc8pt
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-019-6283-z
+  title: 'StressGenePred: a twin prediction model architecture for classifying the
+    stress types of samples and discovering stress-related genes in arabidopsis'
+  authors:
+  - Dongwon Kang
+  - Hongryul Ahn
+  - Sangseon Lee
+  - Chai-Jin Lee
+  - Jihye Hur
+  - Woosuk Jung
+  - Sun Kim
+  publisher: BMC Genomics
+  date: '2019-12-01'
+  link: https://doi.org/g83w85
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-019-3302-7
+  title: 'Venn-diaNet : venn diagram based network propagation analysis framework
+    for comparing multiple biological experiments'
+  authors:
+  - Benjamin Hur
+  - Dongwon Kang
+  - Sangseon Lee
+  - Ji Hwan Moon
+  - Gung Lee
+  - Sun Kim
+  publisher: BMC Bioinformatics
+  date: '2019-12-01'
+  link: https://doi.org/g83w86
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bib/bby097
+  title: Comprehensive and critical evaluation of individualized pathway activity
+    measurement tools on pan-cancer data
+  authors:
+  - Sangsoo Lim
+  - Sangseon Lee
+  - Inuk Jung
+  - Sungmin Rhee
+  - Sun Kim
+  publisher: Briefings in Bioinformatics
+  date: '2018-11-20'
+  link: https://doi.org/gf6rvr
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ymeth.2018.05.003
+  title: In silico experiment system for testing hypothesis on gene functions using
+    three condition specific biological networks
+  authors:
+  - Chai-Jin Lee
+  - Dongwon Kang
+  - Sangseon Lee
+  - Sunwon Lee
+  - Jaewoo Kang
+  - Sun Kim
+  publisher: Methods
+  date: '2018-08-01'
+  link: https://doi.org/gd7xrj
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIGCOMP.2017.7881721
+  title: Flow maximization analysis of cell cycle pathway activation status in breast
+    cancer subtypes
+  authors:
+  - ' Sangseon Lee'
+  - ' Ji Hwan Moon'
+  - Youngjune Park
+  - Sun Kim
+  publisher: 2017 IEEE International Conference on Big Data and Smart Computing (BigComp)
+  date: '2017-02-01'
+  link: https://doi.org/g83w87
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ymeth.2017.05.026
+  title: 'MIDAS: Mining differentially activated subpaths of KEGG pathways from multi-class
+    RNA-seq data'
+  authors:
+  - Sangseon Lee
+  - Youngjune Park
+  - Sun Kim
+  publisher: Methods
+  date: '2017-07-01'
+  link: https://doi.org/g83w88
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12918-017-0387-3
+  title: 'PINTnet: construction of condition-specific pathway interaction network
+    by computing shortest paths on weighted PPI'
+  authors:
+  - Ji Hwan Moon
+  - Sangsoo Lim
+  - Kyuri Jo
+  - Sangseon Lee
+  - Seokjun Seo
+  - Sun Kim
+  publisher: BMC Systems Biology
+  date: '2017-03-01'
+  link: https://doi.org/gr232q
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ymeth.2016.07.019
+  title: 'BioVLAB-mCpG-SNP- EXPRESS : A system for multi-level and multi-perspective
+    analysis and exploration of DNA methylation, sequence variation (SNPs), and gene
+    expression from multi-omics data'
+  authors:
+  - Heejoon Chae
+  - Sangseon Lee
+  - Seokjun Seo
+  - Daekyoung Jung
+  - Hyeonsook Chang
+  - Kenneth P. Nephew
+  - Sun Kim
+  publisher: Methods
+  date: '2016-12-01'
+  link: https://doi.org/f9d5m8
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2217/epi-2016-0038
+  title: Efficiency of Methylated DNA Immunoprecipitation Bisulphite Sequencing for
+    Whole-Genome DNA Methylation Analysis
+  authors:
+  - Hae Min Jeong
+  - Sangseon Lee
+  - Heejoon Chae
+  - RyongNam Kim
+  - Mi Jeong Kwon
+  - Ensel Oh
+  - Yoon-La Choi
+  - Sun Kim
+  - Young Kee Shin
+  publisher: Epigenomics
+  date: '2016-06-08'
+  link: https://doi.org/g83w89
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12918-016-0356-2
+  title: Subtype-specific CpG island shore methylation and mutation patterns in 30
+    breast cancer cell lines
+  authors:
+  - Heejoon Chae
+  - Sangseon Lee
+  - Kenneth P. Nephew
+  - Sun Kim
+  publisher: BMC Systems Biology
+  date: '2016-12-01'
+  link: https://doi.org/g83w9b
+  orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +574,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +590,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
