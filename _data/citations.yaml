@@ -606,3 +606,14 @@
   orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
+- title: 'CheapNet: Cross-attention on Hierarchical representations for Efficient
+    protein-ligand binding Affinity Prediction'
+  authors:
+  - Hyukjun Lim
+  - Sun Kim
+  - Sangseon Lee
+  publisher: ICLR 2025
+  data: 2025-04-24
+  link: https://openreview.net/forum?id=A1HhtITVEi
+  plugin: sources.py
+  file: sources.yaml
