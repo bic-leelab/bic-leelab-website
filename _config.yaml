@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@bic-leelab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: bic-leelab
-  twitter: bic-leelab
-  youtube: bic-leelab
+  email: ss.lee@inha.ac.kr
+  orcid: 0000-0002-7398-9580
+  google-scholar: abgnGj0AAAAJ
 
 ### jekyll settings
 
