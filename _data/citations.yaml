@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3389/fphar.2024.1398370
+  title: 'MDTR: a knowledge-guided interpretable representation for quantifying liver
+    toxicity at transcriptomic level'
+  authors:
+  - Inyoung Sung
+  - Sangseon Lee
+  - Dongmin Bang
+  - Jungseob Yi
+  - Sunho Lee
+  - Sun Kim
+  publisher: Frontiers in Pharmacology
+  date: '2025-01-24'
+  link: https://doi.org/g83xbb
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.csbj.2024.04.038
   title: Multi-layered knowledge graph neural network reveals pathway-level agreement
     of three breast cancer multi-gene assays
@@ -16,6 +32,21 @@
   orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41598-024-72868-0
+  title: 'ChemAP: predicting drug approval with chemical structures before clinical
+    trial phase by leveraging multi-modal embedding space and knowledge distillation'
+  authors:
+  - Changyun Cho
+  - Sangseon Lee
+  - Dongmin Bang
+  - Yinhua Piao
+  - Sun Kim
+  publisher: Scientific Reports
+  date: '2024-10-03'
+  link: https://doi.org/g83xbc
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/JBHI.2024.3350083
   title: Dual Representation Learning for Predicting Drug-side Effect Frequency using
     Protein Target Information
@@ -27,6 +58,20 @@
   publisher: IEEE Journal of Biomedical and Health Informatics
   date: '2024-01-01'
   link: https://doi.org/g83w8k
+  orcid: 0000-0002-7398-9580
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2403.01773
+  title: Improving out-of-distribution generalization in graphs via hierarchical semantic
+    environments
+  authors:
+  - Yinhua Piao
+  - Sangseon Lee
+  - Yijingxiu Lu
+  - Sun Kim
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g83xbd
   orcid: 0000-0002-7398-9580
   plugin: orcid.py
   file: orcid.yaml
