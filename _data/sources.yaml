@@ -24,3 +24,12 @@
 
 - id: doi:10.1101/2022.11.22.517225
   publisher: bioRxiv
+
+- title: CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction
+  authors:
+    - Hyukjun Lim
+    - Sun Kim
+    - Sangseon Lee
+  publisher: ICLR 2025
+  data: 2025-04-24
+  link: https://openreview.net/forum?id=A1HhtITVEi
