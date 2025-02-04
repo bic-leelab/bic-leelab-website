@@ -1,9 +1,9 @@
 ---
 ---
 
-# bic-leelab's Website
+# BioInCode Lab: AI for Bio & Medical Innovations
 
-An engaging 1-3 sentence description of your lab.
+Driving breakthroughs in biomedical research with advanced AI & ML approaches.
 
 {% include section.html %}
 
