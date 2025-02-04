@@ -2,6 +2,7 @@
 ---
 
 Welcome to BioInCode Lab!
+
 We are pioneering breakthroughs in biomedical research through advanced AI and machine learning approaches.
 
 {% include section.html %}
