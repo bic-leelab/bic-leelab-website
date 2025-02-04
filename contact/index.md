@@ -14,22 +14,23 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="ss.lee@inha.ac.kr"
+  link="ss.lee@inha.ac.kr"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(032) 860-9215"
+  link="+2-032-860-9215"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Bldg. 1, Rm. 511, Inha University"
+  link="[https://www.google.com/maps](https://maps.app.goo.gl/3tXQk2hNuTkyiokN8)"
 %}
 
+<!--
 {% include section.html %}
 
 {% capture col1 %}
@@ -75,3 +76,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+-->
