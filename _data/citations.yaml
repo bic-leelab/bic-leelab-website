@@ -617,3 +617,17 @@
   link: https://openreview.net/forum?id=A1HhtITVEi
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2403.01773
+  title: Improving out-of-distribution generalization in graphs via hierarchical semantic
+    environments
+  authors:
+  - Yinhua Piao
+  - Sangseon Lee
+  - Yijingxiu Lu
+  - Sun Kim
+  publisher: CVPR 2024
+  date: '2024-06-04'
+  link: https://arxiv.org/abs/2403.01773
+  data: 2024-06-17
+  plugin: sources.py
+  file: sources.yaml
