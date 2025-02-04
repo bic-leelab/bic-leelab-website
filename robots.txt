@@ -1,1 +1,1 @@
-Sitemap: https://bic-leelab.github.io/bic-leelab-website/sitemap.xml
+Sitemap: http://bic-leelab.com/sitemap.xml
