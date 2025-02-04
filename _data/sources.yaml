@@ -31,7 +31,7 @@
     - Sun Kim
     - Sangseon Lee
   publisher: ICLR 2025
-  data: 2025-04-24
+  date: 2025-04-24
   link: https://openreview.net/forum?id=A1HhtITVEi
 
 - id: arxiv:2403.01773
@@ -42,5 +42,5 @@
     - Yijingxiu Lu
     - Sun Kim
   publisher: CVPR 2024
-  data: 2024-06-17
+  date: 2024-06-17
   link: https://arxiv.org/abs/2403.01773
