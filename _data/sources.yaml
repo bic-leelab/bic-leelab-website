@@ -34,7 +34,7 @@
   date: 2025-04-24
   link: https://openreview.net/forum?id=A1HhtITVEi
 
-- id: arxiv:2403.01773
+- id: doi:10.48550/ARXIV.2403.01773
   title: 'Improving out-of-distribution generalization in graphs via hierarchical semantic environments'
   authors:
     - Yinhua Piao
