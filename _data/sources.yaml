@@ -33,3 +33,14 @@
   publisher: ICLR 2025
   data: 2025-04-24
   link: https://openreview.net/forum?id=A1HhtITVEi
+
+- id: arxiv:2403.01773
+  title: 'Improving out-of-distribution generalization in graphs via hierarchical semantic environments'
+  authors:
+    - Yinhua Piao
+    - Sangseon Lee
+    - Yijingxiu Lu
+    - Sun Kim
+  publisher: CVPR 2024
+  data: 2024-06-17
+  link: https://arxiv.org/abs/2403.01773
