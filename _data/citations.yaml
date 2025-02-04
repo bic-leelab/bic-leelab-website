@@ -69,12 +69,12 @@
   - Sangseon Lee
   - Yijingxiu Lu
   - Sun Kim
-  publisher: CVPR 2024
-  date: '2024-06-17'
-  link: https://arxiv.org/abs/2403.01773
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g83xbd
   orcid: 0000-0002-7398-9580
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/bib/bbad285
   title: "A model-agnostic framework to enhance knowledge graph-based drug combination\
     \ prediction with drug\u2013drug interaction data and supervised contrastive learning"
