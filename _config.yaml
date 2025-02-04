@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: bic-leelab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: BioInCode Lab
+subtitle: AI for Bio & Medical Innovations
+description: Driving breakthroughs in biomedical research with advanced AI & ML approaches.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
