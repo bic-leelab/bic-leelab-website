@@ -27,7 +27,7 @@ BIC Lab is looking for undergraduate and graduate students (M.S. and Ph.D.) for 
   include button.html
   type="address"
   tooltip="Bldg. 1, Rm. 511, Inha University"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/3tXQk2hNuTkyiokN8)"
+  link="https://maps.app.goo.gl/3tXQk2hNuTkyiokN8"
 %}
 
 <!--
